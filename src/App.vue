@@ -1,5 +1,9 @@
 <template>
-  <div></div>
+<div>
+  <div>haha</div>
+  <router-view></router-view>
+
+</div>
 </template>
 
 <script>
